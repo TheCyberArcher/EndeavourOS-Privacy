@@ -43,7 +43,7 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 8) Customise the Desktop Environment with extensions
 
-All of the extensions are presents in https://extensions.gnome.org/List 
+Extensions are presents in https://extensions.gnome.org/List 
 
 <br />
 
