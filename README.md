@@ -40,7 +40,9 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 ### 6) Verify the connectivity
 
 <br />
+
 ```ping aur.archlinux.org```
+
 <br />
 
 
