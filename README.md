@@ -46,7 +46,8 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 All of the extensions are presents in https://extensions.gnome.org/List of required extensions (Gnome 45) :
 
 - No overview at start-up
-- Dash to Dock - Pop Shell 
+- Dash to Dock 
+- Pop Shell 
 - AppIndicator and KStatusNotifierItem Support
 - Brightness control using ddcutil
 - Vitals
