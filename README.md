@@ -173,4 +173,12 @@ Be careful if you want to pass devices (Microphone) into your VM in virtualbox, 
 
 ```Usermod –aG «your username» vboxusers```
 
+### 13) Control your GPU (Radeon Only)
+
+If you use 3D applications or want to play video games, it is necessary to install a few things to improve the experience.\
+We will check if the drivers are up to date, then we will install CoreCTRL.
+
+
+
+
 
