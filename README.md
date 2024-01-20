@@ -103,16 +103,10 @@ Paste in a shell : ``` yay –S mullvad-vpn-bin ```
 
 or ``` yay –S protonvpn-gui ```
 
-(Here we will use the binary version to avoid additional compilation times)
-
 <br />
 
-
 Open the VPN and set the connexion to « autostart ».
-Enter your mullvad login, a unique code of numbers
-
-Select a server in a coutry close to you to avoid too much latency
-
+Enter your mullvad login, a unique code of numbers.
 In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambling, Adult Content, Social Media (Important part to protect yourself on the internet)
 
 
