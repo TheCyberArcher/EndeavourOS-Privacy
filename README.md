@@ -41,6 +41,8 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 7) Update
 
+<br />
+
 Open a shell and update all of the packages and kernel: ```yay -Syu```
 
 Reboot the computer.
