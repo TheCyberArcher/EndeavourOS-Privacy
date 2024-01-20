@@ -57,7 +57,7 @@ All of the extensions are presents in https://extensions.gnome.org/List
 
 <br />
 
-Optionnal
+Optional
 
 <br />
 
