@@ -107,7 +107,7 @@ or ``` yay –S protonvpn-gui ```
 
 Open the VPN and set the connexion to « autostart ».
 Enter your mullvad login, a unique code of numbers.
-In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambling, Adult Content, Social Media (Important part to protect yourself on the internet)
+In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambling, Adult Content and Social Media.
 
 
 
