@@ -137,7 +137,11 @@ At first, we set NextDNS, in secondary AdGuard and Cloudflare (if necessary) :
 These DNS will integrate feeds of malicious sites, with large blocking lists and also prevent data collection.\
 Useful when you are not using the VPN, it will always be safer than using the one from Google or your ISP.
 
+<br />
+
 ### 11) Tool installations
+
+<br />
 
 This part depends on your requirements, your needs and your use of the machine.\
 These are the ones I use on a daily basis, but I will try to bring you the most privacy-friendly tools.\
