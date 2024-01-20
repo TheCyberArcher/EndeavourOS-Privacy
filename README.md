@@ -47,6 +47,8 @@ Open a shell and update all of the packages and kernel: ```yay -Syu```
 
 Reboot the computer.
 
+<br />
+
 ### 8) Customise the Desktop Environment with extensions
 
 Extensions are presents in https://extensions.gnome.org/List 
