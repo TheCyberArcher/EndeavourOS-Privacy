@@ -112,6 +112,13 @@ https://aur.archlinux.org/packages/mullvad-vpn-bin
 Paste in a shell : ``` yay –S mullvad-vpn-bin ```
 
 
+Open the VPN and set the connexion to « autostart ».
+Enter your mullvad login, a unique code of numbers
+
+Select a server in a coutry close to you to avoid too much latency
+
+In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambling, Adult Content, Social Media (Important part to protect yourself on the internet)
+
 
 
 
