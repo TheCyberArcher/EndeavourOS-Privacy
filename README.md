@@ -94,14 +94,10 @@ Several VPNs exist, here we offer you the choice of Mullvad-VPN or Proton-VPN.Th
 
 <br />
 
-Subscriptions vary between 5 euros to 10 euros depending on the level of services you want.
-
 Mullvad : https://mullvad.net/fr  
 Proton : https://protonvpn.com/fr
 
 <br />
-
-https://aur.archlinux.org/packages/mullvad-vpn-bin
 
 Paste in a shell : ``` yay –S mullvad-vpn-bin ```
 
