@@ -81,8 +81,7 @@ Optional
 
 <br />
 
-To simplify extension installation (similar to a manuel install)
-Use the software "extensions Manager"
+To simplify extension installation (similar to a manual install), use "extensions Manager"
 
 <br />
 
