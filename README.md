@@ -147,5 +147,9 @@ This part depends on your requirements, your needs and your use of the machine.\
 These are the ones I use on a daily basis, but I will try to bring you the most privacy-friendly tools.\
 The tools I list are not exhaustive.
 
-- Browser 
+-  [LibreWolf](https://librewolf.net/)
+
+« This project is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom »
+
+```yay –S librewolf-bin```
 
