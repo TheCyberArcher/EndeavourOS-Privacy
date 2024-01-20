@@ -122,7 +122,12 @@ Open the VPN and set the connexion to « autostart ».
 Enter your mullvad login, a unique code of numbers.
 In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambling, Adult Content and Social Media.
 
+### 10) DNS configuration
 
+<br />
+
+Open Gnome Settings and go to the network page.
+On your network media, open settings and go to IPV4.
 
 
 
