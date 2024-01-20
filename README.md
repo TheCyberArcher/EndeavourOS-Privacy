@@ -41,9 +41,9 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 7) Update
 
-Open a shell and update all of the packages and kernel with yay command and reboot the computer.
+Open a shell and update all of the packages and kernel: ```yay -Syu```
 
-```yay -Syu```
+Reboot the computer.
 
 ### 8) Customise the Desktop Environment with extensions
 
