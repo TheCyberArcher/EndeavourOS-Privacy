@@ -73,7 +73,9 @@ Use the software "extensions Manager"
 
 <br />
 
-Open a shell and paste
+Open a shell and paste : 
 
 ``` yay –S extension-manager ```
 
+After this, open extension manager in gnome and Install the mentioned extensions
+Reboot the computer, congratulation, your desktop environment is ready to be use !
