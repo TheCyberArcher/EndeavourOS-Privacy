@@ -147,8 +147,6 @@ This part depends on your requirements, your needs and your use of the machine.\
 These are the ones I use on a daily basis, but I will try to bring you the most privacy-friendly tools.\
 The tools I list are not exhaustive.
 
--  [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin```
+-  [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` >dadada
 
-
-```yay –S librewolf-bin```
 
