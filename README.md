@@ -77,5 +77,26 @@ Open a shell and paste :
 
 ``` yay –S extension-manager ```
 
+<br />
+
 After this, open extension manager in gnome and Install the mentioned extensions
 Reboot the computer, congratulation, your desktop environment is ready to be use !
+
+### 9) Install a VPN on your system
+
+<br />
+
+A VPN allows you to identify your IP and therefore remain anonymous. Add to this that most solutions also offer blocking of malicious sites, trackers and data collection by third parties.
+
+<br />
+
+Several VPNs exist, here we offer you the choice of Mullvad-VPN or Proton-VPN.These two players are the most reliable on the market, preference to Mullvad, who has been able to prove in many cases that his no logs policy is indeed valid.
+
+<br />
+
+Subscriptions vary between 5 euros to 10 euros depending on the level of services you want.
+
+https://mullvad.net/fr
+https://protonvpn.com/fr
+
+
