@@ -98,7 +98,7 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 <br />
 
-A VPN allows you to identify your IP and therefore remain anonymous. Add to this that most solutions also offer blocking of malicious sites, trackers and data collection by third parties.
+>A VPN allows you to identify your IP and therefore remain anonymous. Add to this that most solutions also offer blocking of malicious sites, trackers and data collection by third parties.
 
 <br />
 
@@ -147,6 +147,6 @@ This part depends on your requirements, your needs and your use of the machine.\
 These are the ones I use on a daily basis, but I will try to bring you the most privacy-friendly tools.\
 The tools I list are not exhaustive.
 
--  [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` >dadada
+-  [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` 
 
 
