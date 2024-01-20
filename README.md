@@ -149,8 +149,8 @@ This part depends on your requirements, your needs and your use of the machine.\
 These are the ones I use on a daily basis, but I will try to bring you the most privacy-friendly tools.\
 The tools I list are not exhaustive.
 
--  [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` 
--  [TorBrowser](https://www.torproject.org/fr/download/) : ```yay –S tor-browser-bin```
--  [Thunderbird](https://www.thunderbird.net/fr/) : ```yay –S thunderbird```
+- [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` 
+- [TorBrowser](https://www.torproject.org/fr/download/) : ```yay –S tor-browser-bin```
+- [Thunderbird](https://www.thunderbird.net/fr/) : ```yay –S thunderbird```
 
 
