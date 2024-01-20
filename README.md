@@ -99,6 +99,19 @@ Subscriptions vary between 5 euros to 10 euros depending on the level of service
 Mullvad : https://mullvad.net/fr  
 Proton : https://protonvpn.com/fr
 
+<br />
+
+Download the sofware from the AUR : https://aur.archlinux.org/packages/mullvad-vpn-bin
+(Here we will use the binary version to avoid additional compilation times)
+
+<br />
+
+Paste in a shell : ``` yay –S mullvad-vpn-bin ```
+
+
+
+
+
 
 
 
