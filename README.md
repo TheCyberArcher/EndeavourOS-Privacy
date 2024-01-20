@@ -101,7 +101,9 @@ Proton : https://protonvpn.com/fr
 
 <br />
 
-Download the sofware from the AUR : https://aur.archlinux.org/packages/mullvad-vpn-bin
+Download the sofware from the AUR : 
+https://aur.archlinux.org/packages/mullvad-vpn-bin
+
 (Here we will use the binary version to avoid additional compilation times)
 
 <br />
