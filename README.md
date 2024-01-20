@@ -61,10 +61,10 @@ Optionnal
 
 <br />
 
-- Blur My Shell
-- User Avatar In Quick Settings
-- ArchLinux Update Indicator
-- GSC Connect 
+- [Blur My Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- [User Avatar In Quick Settings](https://extensions.gnome.org/extension/5506/user-avatar-in-quick-settings/)
+- [ArchLinux Update Indicator](https://extensions.gnome.org/extension/1010/archlinux-updates-indicator/)
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
 
 <br />
 
