@@ -155,5 +155,8 @@ The tools I list are not exhaustive.
 - [KeepassXC](https://keepassxc.org/) : ```yay –S keepassxc```
 - [WebAppManager](https://github.com/linuxmint/webapp-manager) : ```yay –S webapp-manager```
 - [Qbittorrent](https://www.qbittorrent.org/download) : ```yay –S qbittorrent```
+- [Btop](https://github.com/aristocratos/btop) : ```yay –S btop```
+- [OnlyOffice](https://www.onlyoffice.com/fr/) : ```yay –S onlyoffice-bin```
+- [Virtualbox](https://www.virtualbox.org/) ```yay –S virtualbox```
 
 
