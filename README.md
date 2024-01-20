@@ -44,6 +44,7 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 ### 8) Customise the Desktop Environment with extensions
 
 All of the extensions are presents in https://extensions.gnome.org/List 
+<br />
 
 - No overview at start-up
 - Dash to Dock 
@@ -63,6 +64,8 @@ Optionnal
 - User Avatar In Quick Settings
 - ArchLinux Update Indicator
 - GSC Connect 
+
+<br />
 
 To simplify extension installation (similar to a manuel install)
 Use the software "extensions Manager"
