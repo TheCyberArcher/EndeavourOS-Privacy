@@ -98,11 +98,11 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 <br />
 
->A VPN allows you to identify your IP and therefore remain anonymous. Add to this that most solutions also offer blocking of malicious sites, trackers and data collection by third parties.
+A VPN allows you to identify your IP and therefore remain anonymous. Add to this that most solutions also offer blocking of malicious sites, trackers and data collection by third parties.
 
 <br />
 
-Several VPNs exist, here we offer you the choice of Mullvad-VPN or Proton-VPN.These two players are the most reliable on the market, preference to Mullvad, who has been able to prove in many cases that his no logs policy is indeed valid.
+>Several VPNs exist, here we offer you the choice of Mullvad-VPN or Proton-VPN.These two players are the most reliable on the market, preference to Mullvad, who has been able to prove in many cases that his no logs policy is indeed valid.
 
 <br />
 
@@ -134,7 +134,7 @@ At first, we set NextDNS, in secondary AdGuard and Cloudflare (if necessary) :
 
 ``` 45.90.28.250, 45.90.30.250, 9.9.9.9, 149.112.112.112, 1.1.1.1 ```
 
-These DNS will integrate feeds of malicious sites, with large blocking lists and also prevent data collection.\
+>These DNS will integrate feeds of malicious sites, with large blocking lists and also prevent data collection.\
 Useful when you are not using the VPN, it will always be safer than using the one from Google or your ISP.
 
 <br />
