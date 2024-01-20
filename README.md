@@ -175,6 +175,8 @@ Be careful if you want to pass devices (Microphone) into your VM in virtualbox, 
 
 ### 13) Control your GPU (Radeon Only)
 
+<br />
+
 If you use 3D applications or want to play video games, it is necessary to install a few things to improve the experience.
 
 <br />
