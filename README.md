@@ -30,3 +30,13 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 <br />
 
 ### 4) Select Systemd-boot for the bootloader choice
+
+### 5) At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
+
+### 6) Verify the connectivity with a simple ping of aur.archlinux.org
+
+### 7) Open a shell and update all of the packages and kernel with yay command and reboot the computer
+
+### 8) Customise the Desktop Environment with extensions
+
+All of the extensions are presents in https://extensions.gnome.org/List of required extensions (Gnome 45) : - No overview at start-up- Dash to Dock - Pop Shell - AppIndicator and KStatusNotifierItem Support- Brightness control using ddcutil- Vitals- QSTweak Quick Settings TweakerOptionnal- Blur My Shell- User Avatar In Quick Settings- ArchLinux Update Indicator- GSC Connect To simplify extension installation (similar to a manuel install), use the software « Extensions Manager)
