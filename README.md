@@ -152,5 +152,7 @@ The tools I list are not exhaustive.
 - [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` 
 - [TorBrowser](https://www.torproject.org/fr/download/) : ```yay –S tor-browser-bin```
 - [Thunderbird](https://www.thunderbird.net/fr/) : ```yay –S thunderbird```
+- [KeepassXC](https://keepassxc.org/) : ```yay –S keepassxc```
+- [WebAppManager](https://github.com/linuxmint/webapp-manager) : ```yay –S webapp-manager```
 
 
