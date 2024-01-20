@@ -47,13 +47,13 @@ All of the extensions are presents in https://extensions.gnome.org/List
 
 <br />
 
-- [No overview at start-up] (https://extensions.gnome.org/extension/4099/no-overview/)
-- [Dash to Dock] (https://extensions.gnome.org/extension/307/dash-to-dock/)
-- [Pop Shell] (https://aur.archlinux.org/packages/gnome-shell-extension-pop-shell-git)
-- [AppIndicator and KStatusNotifierItem Support] (https://extensions.gnome.org/extension/615/appindicator-support/)
-- [Brightness control using ddcutil] (https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/)
-- [Vitals] (https://extensions.gnome.org/extension/1460/vitals/)
-- [QSTweak Quick Settings Tweaker] (https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
+- [No overview at start-up](https://extensions.gnome.org/extension/4099/no-overview/)
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- [Pop Shell](https://aur.archlinux.org/packages/gnome-shell-extension-pop-shell-git)
+- [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
+- [Brightness control using ddcutil](https://extensions.gnome.org/extension/2645/brightness-control-using-ddcutil/)
+- [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- [QSTweak Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/)
 
 <br />
 
