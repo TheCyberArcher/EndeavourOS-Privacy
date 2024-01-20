@@ -39,7 +39,11 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 6) Verify the connectivity with a simple ping of aur.archlinux.org
 
-### 7) Open a shell and update all of the packages and kernel with yay command and reboot the computer
+### 7) Update
+
+Open a shell and update all of the packages and kernel with yay command and reboot the computer.
+
+```yay -Syu```
 
 ### 8) Customise the Desktop Environment with extensions
 
