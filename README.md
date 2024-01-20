@@ -94,8 +94,8 @@ Open a shell and paste :
 
 <br />
 
-After this, open extension manager in gnome and Install the mentioned extensions
-Reboot the computer, congratulation, your desktop environment is ready to be use !
+After this, open extension manager in gnome, install the mentioned extensions
+and reboot the computer. Congratulation, your desktop environment is ready to be use !
 
 ### 9) Install a VPN
 
