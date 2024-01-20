@@ -43,4 +43,25 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 8) Customise the Desktop Environment with extensions
 
-All of the extensions are presents in https://extensions.gnome.org/List of required extensions (Gnome 45) : - No overview at start-up- Dash to Dock - Pop Shell - AppIndicator and KStatusNotifierItem Support- Brightness control using ddcutil- Vitals- QSTweak Quick Settings TweakerOptionnal- Blur My Shell- User Avatar In Quick Settings- ArchLinux Update Indicator- GSC Connect To simplify extension installation (similar to a manuel install), use the software « Extensions Manager)
+All of the extensions are presents in https://extensions.gnome.org/List of required extensions (Gnome 45) :
+
+- No overview at start-up
+- Dash to Dock - Pop Shell 
+- AppIndicator and KStatusNotifierItem Support
+- Brightness control using ddcutil
+- Vitals
+- QSTweak Quick Settings Tweaker
+
+<br />
+
+Optionnal
+
+<br />
+
+- Blur My Shell
+- User Avatar In Quick Settings
+- ArchLinux Update Indicator
+- GSC Connect 
+
+To simplify extension installation (similar to a manuel install)
+Use the software "extensions Manager"
