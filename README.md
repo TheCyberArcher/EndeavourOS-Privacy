@@ -159,6 +159,8 @@ The tools I list are not exhaustive.
 - [OnlyOffice](https://www.onlyoffice.com/fr/) : ```yay –S onlyoffice-bin```
 - [CodeOSS](https://flathub.org/apps/com.visualstudio.code-oss) : ```yay –S code```
 
+<br />
+
 ### 12) Virtualisation
 
 The choice of virtualization tool will depend on what you need. Virtualbox can do the job very well.\
