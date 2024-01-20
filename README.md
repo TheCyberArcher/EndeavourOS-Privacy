@@ -96,11 +96,7 @@ Several VPNs exist, here we offer you the choice of Mullvad-VPN or Proton-VPN.Th
 
 Subscriptions vary between 5 euros to 10 euros depending on the level of services you want.
 
-https://mullvad.net/fr
-
-<br />
-
-https://protonvpn.com/fr
+Mullvad : https://mullvad.net/fr   Proton : https://protonvpn.com/fr
 
 
 
