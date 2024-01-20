@@ -23,7 +23,11 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 <br />
 
-### 3) Select Gnome Desktop Environment (remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install)
+### 3) Select Gnome Desktop Environment 
+
+<br />
+
+(remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install)
 
 <br />
 <br />
