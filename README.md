@@ -129,7 +129,7 @@ In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambl
 Open Gnome Settings and go to the network page.\
 On your network media, open settings and go to IPV4.
 
-
+The list of encrypted DNS is available on : [privacytools.io](https://www.privacytools.io/encrypted-dns)
 
 
 
