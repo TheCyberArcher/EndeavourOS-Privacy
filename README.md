@@ -101,15 +101,17 @@ Proton : https://protonvpn.com/fr
 
 <br />
 
-Download the sofware from the AUR : 
-
 https://aur.archlinux.org/packages/mullvad-vpn-bin
+
+Paste in a shell : ``` yay –S mullvad-vpn-bin ```
+
+or 
+
+Paste in a shell : ``` yay –S protonvpn-gui ```
 
 (Here we will use the binary version to avoid additional compilation times)
 
 <br />
-
-Paste in a shell : ``` yay –S mullvad-vpn-bin ```
 
 
 Open the VPN and set the connexion to « autostart ».
