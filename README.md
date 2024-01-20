@@ -126,7 +126,7 @@ In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambl
 
 <br />
 
-Open Gnome Settings and go to the network page.
+Open Gnome Settings and go to the network page.\
 On your network media, open settings and go to IPV4.
 
 
