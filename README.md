@@ -157,6 +157,13 @@ The tools I list are not exhaustive.
 - [Qbittorrent](https://www.qbittorrent.org/download) : ```yay –S qbittorrent```
 - [Btop](https://github.com/aristocratos/btop) : ```yay –S btop```
 - [OnlyOffice](https://www.onlyoffice.com/fr/) : ```yay –S onlyoffice-bin```
-- [Virtualbox](https://www.virtualbox.org/) ```yay –S virtualbox```
+- [CodeOSS](https://flathub.org/apps/com.visualstudio.code-oss) : ```yay –S code```
 
+### 12) Virtualisation
+
+The choice of virtualization tool will depend on what you need. Virtualbox can do the job very well.\
+If you need passtrough GPU or optimal performance, better kernel level and therefore Quemu.
+
+- [Virtualbox](https://www.virtualbox.org/) : ```yay –S virtualbox```
+- [Quemu](https://www.qemu.org/) : ```qemu-desktop```
 
