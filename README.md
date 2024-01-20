@@ -70,3 +70,10 @@ Optionnal
 
 To simplify extension installation (similar to a manuel install)
 Use the software "extensions Manager"
+
+<br />
+
+Open a shell and paste
+
+``` yay –S extension-manager ```
+
