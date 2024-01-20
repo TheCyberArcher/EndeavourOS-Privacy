@@ -154,5 +154,6 @@ The tools I list are not exhaustive.
 - [Thunderbird](https://www.thunderbird.net/fr/) : ```yay –S thunderbird```
 - [KeepassXC](https://keepassxc.org/) : ```yay –S keepassxc```
 - [WebAppManager](https://github.com/linuxmint/webapp-manager) : ```yay –S webapp-manager```
+- [Qbittorrent](https://www.qbittorrent.org/download) : ```yay –S qbittorrent```
 
 
