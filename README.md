@@ -105,9 +105,7 @@ https://aur.archlinux.org/packages/mullvad-vpn-bin
 
 Paste in a shell : ``` yay –S mullvad-vpn-bin ```
 
-or 
-
-Paste in a shell : ``` yay –S protonvpn-gui ```
+or ``` yay –S protonvpn-gui ```
 
 (Here we will use the binary version to avoid additional compilation times)
 
