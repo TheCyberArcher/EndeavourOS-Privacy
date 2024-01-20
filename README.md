@@ -37,7 +37,12 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 5) At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
 
-### 6) Verify the connectivity with a simple ping of aur.archlinux.org
+### 6) Verify the connectivity
+
+<br />
+```ping aur.archlinux.org```
+<br />
+
 
 ### 7) Update
 
