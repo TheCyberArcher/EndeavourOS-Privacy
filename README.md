@@ -82,7 +82,7 @@ Open a shell and paste :
 After this, open extension manager in gnome and Install the mentioned extensions
 Reboot the computer, congratulation, your desktop environment is ready to be use !
 
-### 9) Install a VPN on your system
+### 9) Install a VPN
 
 <br />
 
@@ -97,6 +97,11 @@ Several VPNs exist, here we offer you the choice of Mullvad-VPN or Proton-VPN.Th
 Subscriptions vary between 5 euros to 10 euros depending on the level of services you want.
 
 https://mullvad.net/fr
+
+<br />
+
 https://protonvpn.com/fr
+
+
 
 
