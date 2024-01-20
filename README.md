@@ -43,7 +43,8 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 ### 8) Customise the Desktop Environment with extensions
 
-All of the extensions are presents in https://extensions.gnome.org/List of required extensions (Gnome 45) :
+All of the extensions are presents in https://extensions.gnome.org/List 
+Note : Only for Gnome 45
 
 - No overview at start-up
 - Dash to Dock 
