@@ -141,5 +141,5 @@ Useful when you are not using the VPN, it will always be safer than using the on
 
 This part depends on your requirements, your needs and your use of the machine.\
 These are the ones I use on a daily basis, but I will try to bring you the most privacy-friendly tools.\
-The tools I list are not exhaustive.\
+The tools I list are not exhaustive.
 
