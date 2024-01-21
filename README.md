@@ -41,6 +41,8 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 <br />
 
+Open a shell and paste this command : 
+
 ```ping aur.archlinux.org```
 
 <br />
