@@ -53,7 +53,6 @@ Open a shell and paste this command :
 <br />
 
 Open a shell and update all of the packages and kernel: ```yay -Syu```
-
 Reboot the computer.
 
 <br />
