@@ -4,7 +4,7 @@
 
 
 
-
+Basic 
 
 ### 1) Download EndeavourOS from the official website :
 <br />
@@ -36,6 +36,16 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 ### 4) Select Systemd-boot for the bootloader choice
 
 ### 5) At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
+
+### 1) Basic Installation
+
+<br />
+
+Download EndeavourOS from the official website : [EndeavourOS Latest Release](https://endeavouros.com/#Download)
+
+AMD and Nvidia driver are integrated. You will not need any further configuration and the system will install the necessary tools for you. 
+
+<br />
 
 ### 6) Verify the connectivity
 
