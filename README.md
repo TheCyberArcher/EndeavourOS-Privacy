@@ -216,6 +216,7 @@ Paste the following contents :
 });
 
 ```
+<br />
 
 To enable overclocking, GPU and memory frequency, add this parameter to your kernel load:
 
