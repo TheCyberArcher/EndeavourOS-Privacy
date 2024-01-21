@@ -97,12 +97,6 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 <br />
 
-Example of the look/features you can get after installation : 
-
-<img src="https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://i.postimg.cc/fLptNcFw/Blurmyshell.png" alt="d" width="400"/>
-
-<br />
-
 ### 5) Install a VPN
 
 <br />
@@ -290,4 +284,15 @@ lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader l
 ```
 
 Then follow the lutris documentation to install your games simply : [Lutris Game Page](https://lutris.net/games)
+
+### FYI
+
+<br />
+
+Example of the look/features you can get after installation : 
+
+<img src="https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://i.postimg.cc/fLptNcFw/Blurmyshell.png" alt="d" width="600"/>
+
+[GSConnect.png](https://postimg.cc/7J71nXf4)
+
 
