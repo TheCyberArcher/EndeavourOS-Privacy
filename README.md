@@ -58,6 +58,8 @@ Reboot the computer.
 
 ### 8) Customise the Desktop Environment with extensions
 
+<br />
+
 Extensions are presents in https://extensions.gnome.org/List 
 
 <br />
