@@ -195,6 +195,25 @@ Documentation : https://gitlab.com/corectrl/corectrl
 Open corectrl and go to your GPU settings. You can make a manual ventilation curve, also go to the energy profile and select "performance".
 In the tool settings, put corectrl on startup + minimized to tray.
 
-To avoid having to type the password each time you open the session, you must modify:
+To avoid having to type the password each time you open the session, you must modify :
+
+```sudo nano /etc/polkit-1/rules.d/90-corectrl.rules```
+
+Paste the following contents : 
+
+```
+ polkit.addRule(function(action, subject) {
+    if ((action.id == "org.corectrl.helper.init" ||
+         action.id == "org.corectrl.helperkiller.init") &&
+        subject.local == true &&
+        subject.active == true &&
+        subject.isInGroup("your-user-group")) {
+            return polkit.Result.YES;
+    }
+});
+
+```
+
+
 
 
