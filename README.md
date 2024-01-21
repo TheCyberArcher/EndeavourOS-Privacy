@@ -240,6 +240,8 @@ Reboot the computer to load the new kernel parameter.
 
 ### 14) Gaming on Linux
 
+br />
+
 If you want to play with Linux, know that it is possible. Since 5 in the advances are enormous, especially with Valve which has pushed proton, a very efficient fork of wine.
 
 - [Steam](https://store.steampowered.com/?l=french) : ```yay –S steam```
@@ -264,5 +266,7 @@ Reboot steam and select this version of Proton on the game parameter.
 Here is the site to check if a game runs well on Linux : [ProtonDB](https://www.protondb.com/)
 
 <br />
+
+Whenever you want to install outside of steam, go through lutris.Install lutris from AUR to benefit from the installation scripts.
 
 - [Lutris](https://lutris.net/) : ```yay –S lutris```
