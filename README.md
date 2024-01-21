@@ -224,3 +224,5 @@ Path : ```/efi/loader/entries/```
 
 Add this at the end of the line "options" : ```amdgpu.ppfeaturemask=0xffffffff```
 
+Reboot the computer to load the new kernel parameter.
+
