@@ -215,5 +215,3 @@ Paste the following contents :
 ```
 
 
-
-
