@@ -186,7 +186,7 @@ We will check if the drivers are up to date, then we will install CoreCTRL.
 ```yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon```
 
 
-Download : https://archlinux.org/packages/extra/x86_64/corectrl/
+Download : https://archlinux.org/packages/extra/x86_64/corectrl/\
 Documentation : https://gitlab.com/corectrl/corectrl
 
 
