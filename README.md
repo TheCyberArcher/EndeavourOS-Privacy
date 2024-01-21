@@ -89,7 +89,7 @@ Open a shell and paste :
 
 <br />
 
-<img src="https://i.postimg.cc/TPsBq1Fy/Extension-manager.png)](https://postimg.cc/WDM9sN2j" alt="drawing" width="350"/>
+<img src="https://i.postimg.cc/TPsBq1Fy/Extension-manager.png)](https://postimg.cc/WDM9sN2j" alt="drawing" width="400"/>
 
 
 After this, open extension manager in gnome, install the mentioned extensions
