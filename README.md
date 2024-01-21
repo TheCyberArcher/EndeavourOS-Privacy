@@ -1,4 +1,6 @@
-# EndeavourOS – Configuration – Privacy and Productivity
+# EndeavourOS – Configuration
+
+>This page aims to list the configuration of my EndeavorOS handle, a distribution based on Archlinux. Its rolling release system allows this platform to be permanently up to date and benefit from the latest technologies. Here, I detail step by step how I configure my system to obtain both an OS that protects my privacy extensively, while obtaining ergonomics adapted to my productivity tasks. Also included are some additional features to cover gaming uses.
 
 <br />
 <br />
