@@ -222,5 +222,5 @@ To enable overclocking, GPU and memory frequency, add this parameter to your ker
 
 Path : ```sudo nano /efi/loader/entries/```
 
-Add this at the end of line "options" ```amdgpu.ppfeaturemask=0xffffffff```
+Add this at the end of the line "options" : ```amdgpu.ppfeaturemask=0xffffffff```
 
