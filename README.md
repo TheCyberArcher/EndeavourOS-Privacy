@@ -271,6 +271,8 @@ Whenever you want to install outside of steam, go through lutris.Install lutris 
 
 - [Lutris](https://lutris.net/) : ```yay –S lutris```
 
+<br />
+
 Install Wine Lutris dependencies : 
 
 ```
