@@ -267,7 +267,7 @@ Here is the site to check if a game runs well on Linux : [ProtonDB](https://www
 
 <br />
 
-Whenever you want to install outside of steam, go through lutris.Install lutris from AUR to benefit from the installation scripts.
+Whenever you want to install outside of steam, go through lutris. Install lutris from AUR to benefit from the installation scripts.
 
 - [Lutris](https://lutris.net/) : ```yay –S lutris```
 
@@ -285,3 +285,4 @@ lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader l
 ```
 
 Then follow the lutris documentation to install your games simply : [Lutris Game Page](https://lutris.net/games)
+
