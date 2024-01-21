@@ -99,7 +99,7 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 Example of the look/features you can get after installation : 
 
-<img src="https://postimg.cc/phQXQFR7)]([https://postimg.cc/WDM9sN2j](https://postimg.cc/phQXQFR7)" alt="drawing" width="400"/>
+<img src="https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://i.postimg.cc/fLptNcFw/Blurmyshell.png" alt="d" width="400"/>
 
 <br />
 
