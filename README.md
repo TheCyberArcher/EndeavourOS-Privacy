@@ -1,5 +1,8 @@
 # EndeavourOS – Configuration – Privacy and Productivity
 
+<br />
+<br />
+<br />
 
 ### 1) Basic Installation
 
