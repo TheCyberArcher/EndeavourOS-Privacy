@@ -165,6 +165,8 @@ The tools I list are not exhaustive.
 
 ### 12) Virtualisation
 
+<br />
+
 The choice of virtualization tool will depend on what you need. Virtualbox can do the job very well.\
 If you need passtrough GPU or optimal performance, better kernel level and therefore Quemu.
 
@@ -180,6 +182,8 @@ Be careful if you want to pass devices (Microphone) into your VM in virtualbox, 
 <br />
 
 ### 13) Control your GPU (Radeon Only)
+
+<br />
 
 
 If you use 3D applications or want to play video games, it is necessary to install a few things to improve the experience.
