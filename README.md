@@ -97,6 +97,12 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 <br />
 
+Example of the look/features you can get after installation : 
+
+<img src="https://postimg.cc/phQXQFR7" alt="drawing" width="400"/>
+
+<br />
+
 ### 5) Install a VPN
 
 <br />
