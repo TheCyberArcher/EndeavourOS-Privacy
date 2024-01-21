@@ -2,7 +2,6 @@
 
 <br />
 <br />
-<br />
 
 ### 1) Basic Installation
 
@@ -15,7 +14,6 @@
 <br />
 
 - Create an USB Bootable Drive with [USBdiskimager](https://aur.archlinux.org/packages/usbimager)
-
 - At the install select the [Gnome Desktop Environment](https://www.gnome.org/)
 
 >Remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install)
@@ -23,7 +21,6 @@
 <br />
 
 - Select Systemd-boot for the bootloader choice
-
 - At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
 
 <br />
