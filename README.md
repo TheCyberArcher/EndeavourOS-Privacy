@@ -1,42 +1,6 @@
 # EndeavourOS – Configuration – Privacy and Productivity
 
 
-
-
-
-Basic 
-
-### 1) Download EndeavourOS from the official website :
-<br />
-<br />
-Download link : https://endeavouros.com/#Download
-<br />
-
-<br />
-Take the latest release (AMD and Nvidia driver are integrated)
-<br />
-<br />
-
-### 2) Create an USB Bootable Drive with USBdiskimager or any other soft to create usb bootable drive
-<br />
-Download Link : https://aur.archlinux.org/packages/usbimager
-
-<br />
-
-### 3) Select Gnome Desktop Environment 
-
-<br />
-
-(remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install)
-
-<br />
-<br />
-<br />
-
-### 4) Select Systemd-boot for the bootloader choice
-
-### 5) At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
-
 ### 1) Basic Installation
 
 <br />
@@ -45,11 +9,15 @@ Download Link : https://aur.archlinux.org/packages/usbimager
 
 >AMD and Nvidia driver are integrated. You will not need any further configuration and the system will install the necessary tools for you. 
 
+<br />
+
 - Create an USB Bootable Drive with [USBdiskimager](https://aur.archlinux.org/packages/usbimager)
 
 - At the install select the [Gnome Desktop Environment](https://www.gnome.org/)
 
 >Remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install)
+
+<br />
 
 - Select Systemd-boot for the bootloader choice
 
