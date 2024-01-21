@@ -220,5 +220,7 @@ Paste the following contents :
 
 To enable overclocking, GPU and memory frequency, add this parameter to your kernel load:
 
-```amdgpu.ppfeaturemask=0xffffffff```
+Path : ```sudo nano /efi/loader/entries/```
+
+Add this at the end of line "options" ```amdgpu.ppfeaturemask=0xffffffff```
 
