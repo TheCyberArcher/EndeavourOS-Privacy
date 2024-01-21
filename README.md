@@ -302,6 +302,6 @@ Example of the look/features you can get after installation :
 [![Mise-jour.png](https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/5XtYxnbt)
 
 
-<img src="(https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/WDM9sN2j" alt="Mise à jour" width="400"/>
+<img src="https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/WDM9sN2j" alt="Mise à jour" width="400"/>
 
 
