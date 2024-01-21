@@ -56,6 +56,8 @@ Open a shell and update all of the packages and kernel: ```yay -Syu```
 
 Reboot the computer.
 
+<br />
+
 ### 8) Customise the Desktop Environment with extensions
 
 <br />
