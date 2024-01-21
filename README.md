@@ -8,6 +8,10 @@
 
 [![Screen-principal.png](https://i.postimg.cc/g0MG9G5d/Screen-principal.png)](https://postimg.cc/zLRsKY8P)
 
+---
+
+<br />
+
 ### 1) Basic Installation
 
 <br />
@@ -40,6 +44,10 @@ Open a shell and paste this command :
 
 <br />
 
+---
+
+<br />
+
 
 ### 3) Update
 
@@ -47,6 +55,10 @@ Open a shell and paste this command :
 
 Open a shell and update all of the packages and kernel : ```yay -Syu``` \
 Reboot the computer.
+
+<br />
+
+---
 
 <br />
 
@@ -97,6 +109,10 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 <br />
 
+---
+
+<br />
+
 ### 5) Install a VPN
 
 <br />
@@ -126,6 +142,10 @@ In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambl
 
 <br />
 
+---
+
+<br />
+
 ### 6) DNS configuration
 
 <br />
@@ -143,6 +163,10 @@ At first, we set NextDNS, in secondary AdGuard and Cloudflare (if necessary) :
 
 >These DNS will integrate feeds of malicious sites, with large blocking lists and also prevent data collection.\
 Useful when you are not using the VPN, it will always be safer than using the one from Google or your ISP.
+
+<br />
+
+---
 
 <br />
 
@@ -166,6 +190,10 @@ The tools I list are not exhaustive.
 
 <br />
 
+---
+
+<br />
+
 ### 8) Virtualisation
 
 <br />
@@ -181,6 +209,10 @@ If you need passtrough GPU or optimal performance, better kernel level and there
 Be careful if you want to pass devices (Microphone) into your VM in virtualbox, you must add your user to the vboxusers group and restart.
 
 ```Usermod –aG «your username» vboxusers```
+
+<br />
+
+---
 
 <br />
 
@@ -237,6 +269,10 @@ Reboot the computer to load the new kernel parameter.
 
 <br />
 
+---
+
+<br />
+
 ### 10) Gaming on Linux
 
 <br />
@@ -288,6 +324,8 @@ Then follow the lutris documentation to install your games simply : [Lutris Gam
 <br />
 
 ---
+
+<br />
 
 ### GALLERY
 
