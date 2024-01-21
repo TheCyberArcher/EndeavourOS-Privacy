@@ -244,4 +244,6 @@ If you want to play with Linux, know that it is possible. Since 5 in the advance
 
 - [Steam](https://store.steampowered.com/?l=french) : ```yay –S steam```
 
->Steam is the reference platform for playing on Linux, try to use it as much as possible to buy your games and make them work on Linux. This is the most plug n play solution.
+<br />
+
+>Steam is the reference platform for playing on Linux, try to use it as much as possible to buy your games and make them work on Linux. This is the most plug and play solution.
