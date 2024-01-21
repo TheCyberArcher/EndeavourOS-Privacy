@@ -258,6 +258,12 @@ For any game that does not work with proton steam, use this:
 
 - [ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom) : ```yay –S proton-ge-custom ```
 
+<br />
+
 Reboot steam and select this version of Proton on the game parameter.
 
+<br />
+
 Here is the site to check if a game runs well on Linux : [ProtonDB](https://www.protondb.com/)
+
+- [Lutris](https://lutris.net/) : ```yay –S lutris```
