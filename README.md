@@ -240,7 +240,7 @@ Reboot the computer to load the new kernel parameter.
 
 ### 14) Gaming on Linux
 
-br />
+<br />
 
 If you want to play with Linux, know that it is possible. Since 5 in the advances are enormous, especially with Valve which has pushed proton, a very efficient fork of wine.
 
