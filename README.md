@@ -8,6 +8,8 @@
 
 [![Screen-principal.png](https://i.postimg.cc/g0MG9G5d/Screen-principal.png)](https://postimg.cc/zLRsKY8P)
 
+<br />
+
 ---
 
 <br />
@@ -31,6 +33,10 @@
 
 - Select Systemd-boot for the bootloader choice
 - At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
+
+<br />
+
+---
 
 <br />
 
