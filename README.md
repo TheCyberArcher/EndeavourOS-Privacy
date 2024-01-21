@@ -287,6 +287,8 @@ Then follow the lutris documentation to install your games simply : [Lutris Gam
 
 <br />
 
+---
+
 ### GALLERY
 
 <br />
