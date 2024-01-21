@@ -293,10 +293,8 @@ Then follow the lutris documentation to install your games simply : [Lutris Gam
 
 Example of the look/features you can get after installation : 
 
-[![Blurmyshell.png](https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://postimg.cc/phQXQFR7)
-
+[![Blurmyshell.png](https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://postimg.cc/phQXQFR7) 
 [![GSConnect.png](https://i.postimg.cc/6qbHwmK8/GSConnect.png)](https://postimg.cc/7J71nXf4)
-
 [![Mise-jour.png](https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/5XtYxnbt)
 
 
