@@ -146,7 +146,9 @@ Open the VPN and set the connexion to « autostart ».
 Enter your mullvad login, a unique code of numbers.
 In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambling, Adult Content and Social Media.
 
-[![Mullvad.png](https://i.postimg.cc/65PLYZzf/Mullvad.png)](https://postimg.cc/1fpqzfk8)
+<br />
+
+[![Mullvad2.png](https://i.postimg.cc/C1MqFMmK/Mullvad2.png)](https://postimg.cc/B8y6p3WW)
 
 <br />
 
