@@ -202,6 +202,7 @@ To avoid having to type the password each time you open the session, you must mo
 Paste the following contents : 
 
 ```
+
  polkit.addRule(function(action, subject) {
     if ((action.id == "org.corectrl.helper.init" ||
          action.id == "org.corectrl.helperkiller.init") &&
