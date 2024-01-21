@@ -197,7 +197,7 @@ In the tool settings, put corectrl on startup + minimized to tray.
 
 <br />
 
-To avoid having to type the password each time you open the session, you must modify :
+To avoid having to type the password each time you open the session :
 
 ```sudo nano /etc/polkit-1/rules.d/90-corectrl.rules```
 
