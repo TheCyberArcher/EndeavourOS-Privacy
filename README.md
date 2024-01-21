@@ -251,3 +251,9 @@ If you want to play with Linux, know that it is possible. Since 5 in the advance
 To use games under Linux, you must activate proton in the steam settings : 
 
 ```SteamPlay : Enable Steam Play for supported titles```
+
+<br />
+
+For any game that does not work with proton steam, use this:
+
+- [ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom) : ```yay –S proton-ge-custom ```
