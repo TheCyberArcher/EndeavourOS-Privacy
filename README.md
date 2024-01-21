@@ -292,12 +292,12 @@ Then follow the lutris documentation to install your games simply : [Lutris Gam
 <br />
 
 
-[![New2.png](https://i.postimg.cc/nc3qMD6t/New2.png)](https://postimg.cc/svZMNvjn)
-
 [![New.png](https://i.postimg.cc/CMjNMdhF/New.png)](https://postimg.cc/jCSNZxn9)
 
 [![Launcher.png](https://i.postimg.cc/g0q564d0/Launcher.png)](https://postimg.cc/HJn3qwrG)
 
-[![Tilling.png](https://i.postimg.cc/kXGB1hhk/Tilling.png)](https://postimg.cc/RNrSqGmR)
+[![New2.png](https://i.postimg.cc/nc3qMD6t/New2.png)](https://postimg.cc/svZMNvjn)
+
+[![Tilling.png](https://i.postimg.cc/257k84KQ/Tilling.png)](https://postimg.cc/f3kn80Zy)
 
 
