@@ -45,6 +45,8 @@ Download EndeavourOS from the official website : [EndeavourOS Latest Release](h
 
 AMD and Nvidia driver are integrated. You will not need any further configuration and the system will install the necessary tools for you. 
 
+Create an USB Bootable Drive with [USBdiskimager](https://aur.archlinux.org/packages/usbimager)
+
 <br />
 
 ### 6) Verify the connectivity
