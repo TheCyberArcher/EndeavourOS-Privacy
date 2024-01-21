@@ -236,3 +236,10 @@ Add this at the end of the line "options" : ```amdgpu.ppfeaturemask=0xffffffff``
 
 Reboot the computer to load the new kernel parameter.
 
+<br />
+
+### 14) Gaming on Linux
+
+If you want to play with Linux, know that it is possible. Since 5 in the advances are enormous, especially with Valve which has pushed proton, a very efficient fork of wine.
+
+-[Steam](https://store.steampowered.com/?l=french) : ```yay –S steam```
