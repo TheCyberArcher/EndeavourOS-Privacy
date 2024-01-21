@@ -257,3 +257,7 @@ To use games under Linux, you must activate proton in the steam settings :
 For any game that does not work with proton steam, use this:
 
 - [ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom) : ```yay –S proton-ge-custom ```
+
+Reboot steam and select this version of Proton on the game parameter.
+
+Here is the site to check if a game runs well on Linux : [ProtonDB](https://www.protondb.com/)
