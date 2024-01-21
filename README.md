@@ -25,7 +25,7 @@
 
 <br />
 
-### 6) Verify the connectivity
+### 2) Verify the connectivity
 
 <br />
 
@@ -36,7 +36,7 @@ Open a shell and paste this command :
 <br />
 
 
-### 7) Update
+### 3) Update
 
 <br />
 
@@ -45,7 +45,7 @@ Reboot the computer.
 
 <br />
 
-### 8) Customise the Desktop Environment with extensions
+### 4) Customise the Desktop Environment with extensions
 
 <br />
 
@@ -89,7 +89,7 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 <br />
 
-### 9) Install a VPN
+### 5) Install a VPN
 
 <br />
 
@@ -118,7 +118,7 @@ In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambl
 
 <br />
 
-### 10) DNS configuration
+### 6) DNS configuration
 
 <br />
 
@@ -138,7 +138,7 @@ Useful when you are not using the VPN, it will always be safer than using the on
 
 <br />
 
-### 11) Tools installation
+### 7) Tools installation
 
 <br />
 
@@ -158,7 +158,7 @@ The tools I list are not exhaustive.
 
 <br />
 
-### 12) Virtualisation
+### 8) Virtualisation
 
 <br />
 
@@ -176,7 +176,7 @@ Be careful if you want to pass devices (Microphone) into your VM in virtualbox, 
 
 <br />
 
-### 13) Control your GPU (Radeon Only)
+### 9) Control your GPU (Radeon Only)
 
 <br />
 
@@ -229,7 +229,7 @@ Reboot the computer to load the new kernel parameter.
 
 <br />
 
-### 14) Gaming on Linux
+### 10) Gaming on Linux
 
 <br />
 
