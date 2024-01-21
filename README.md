@@ -242,4 +242,6 @@ Reboot the computer to load the new kernel parameter.
 
 If you want to play with Linux, know that it is possible. Since 5 in the advances are enormous, especially with Valve which has pushed proton, a very efficient fork of wine.
 
--[Steam](https://store.steampowered.com/?l=french) : ```yay –S steam```
+- [Steam](https://store.steampowered.com/?l=french) : ```yay –S steam```
+
+>Steam is the reference platform for playing on Linux, try to use it as much as possible to buy your games and make them work on Linux. This is the most plug n play solution.
