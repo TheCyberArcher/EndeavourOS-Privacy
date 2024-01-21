@@ -89,7 +89,9 @@ Open a shell and paste :
 
 <br />
 
-[![Extension-manager.png](https://i.postimg.cc/TPsBq1Fy/Extension-manager.png)](https://postimg.cc/WDM9sN2j) { width: 200px; }
+<img src="https://i.postimg.cc/TPsBq1Fy/Extension-manager.png)](https://postimg.cc/WDM9sN2j" alt="drawing" width="200"/>
+
+[![Extension-manager.png](https://i.postimg.cc/TPsBq1Fy/Extension-manager.png)](https://postimg.cc/WDM9sN2j)
 
 After this, open extension manager in gnome, install the mentioned extensions
 and reboot the computer. Congratulation, your desktop environment is ready to be use !
