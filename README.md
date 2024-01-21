@@ -143,7 +143,7 @@ Useful when you are not using the VPN, it will always be safer than using the on
 
 <br />
 
-### 11) Tool installations
+### 11) Tools installation
 
 <br />
 
