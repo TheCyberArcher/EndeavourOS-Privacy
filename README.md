@@ -171,6 +171,10 @@ At first, we set NextDNS, in secondary AdGuard and Cloudflare (if necessary) :
 
 <br />
 
+[![Network.png](https://i.postimg.cc/tC6YGVp5/Network.png)](https://postimg.cc/4mJJzyK7)
+
+<br />
+
 >These DNS will integrate feeds of malicious sites, with large blocking lists and also prevent data collection.\
 Useful when you are not using the VPN, it will always be safer than using the one from Google or your ISP.
 
