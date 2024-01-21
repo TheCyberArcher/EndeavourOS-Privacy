@@ -6,9 +6,7 @@
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-<picture/>
+[ ](https://cdn.next.ink/inpactv7/data-next/images/bd/wide-linked-media/9985.jpg)
 
 ### 1) Basic Installation
 
