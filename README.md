@@ -6,7 +6,7 @@
 
 <br />
 
-![ ](https://cdn.next.ink/inpactv7/data-next/images/bd/wide-linked-media/9985.jpg)
+[![Screen-principal.png](https://i.postimg.cc/g0MG9G5d/Screen-principal.png)](https://postimg.cc/zLRsKY8P)
 
 ### 1) Basic Installation
 
