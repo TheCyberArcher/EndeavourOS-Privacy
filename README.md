@@ -192,4 +192,9 @@ Documentation : https://gitlab.com/corectrl/corectrl
 
 ```yay –S corectrl```
 
+Open corectrl and go to your GPU settings. You can make a manual ventilation curve, also go to the energy profile and select "performance"\
+In the tool settings, put corectrl on startup + minimized to tray.\
+
+To avoid having to type the password each time you open the session, you must modify:
+
 
