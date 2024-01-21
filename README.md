@@ -261,9 +261,8 @@ For any game that does not work with proton steam, use this:
 <br />
 
 Reboot steam and select this version of Proton on the game parameter.
+Here is the site to check if a game runs well on Linux : [ProtonDB](https://www.protondb.com/)
 
 <br />
-
-Here is the site to check if a game runs well on Linux : [ProtonDB](https://www.protondb.com/)
 
 - [Lutris](https://lutris.net/) : ```yay –S lutris```
