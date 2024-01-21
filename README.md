@@ -21,7 +21,7 @@
 - Create an USB Bootable Drive with [USBdiskimager](https://aur.archlinux.org/packages/usbimager)
 - At the install select the [Gnome Desktop Environment](https://www.gnome.org/)
 
->Remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install)
+>Remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install
 
 <br />
 
