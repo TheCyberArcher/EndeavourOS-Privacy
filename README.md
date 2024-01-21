@@ -296,6 +296,6 @@ Example of the look/features you can get after installation :
 [![Blurmyshell.png](https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://postimg.cc/phQXQFR7) 
 
 
-<img src="https://i.postimg.cc/6qbHwmK8/GSConnect.png)](https://i.postimg.cc/6qbHwmK8/GSConnect.png" alt="GSConnect" width="450"/> <img src="https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/WDM9sN2j" alt="Mise à jour" width="400"/>
+<img src="https://i.postimg.cc/6qbHwmK8/GSConnect.png)](https://i.postimg.cc/6qbHwmK8/GSConnect.png" alt="GSConnect" width="200"/> <img src="https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/WDM9sN2j" alt="Mise à jour" width="600"/>
 
 
