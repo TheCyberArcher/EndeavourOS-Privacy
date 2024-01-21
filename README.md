@@ -295,6 +295,6 @@ Then follow the lutris documentation to install your games simply : [Lutris Gam
 [![Blurmyshell.png](https://i.postimg.cc/fLptNcFw/Blurmyshell.png)](https://postimg.cc/phQXQFR7) 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.postimg.cc/6qbHwmK8/GSConnect.png)](https://i.postimg.cc/6qbHwmK8/GSConnect.png" alt="GSConnect" width="300"/> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/WDM9sN2j" alt="Mise à jour" width="500"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.postimg.cc/6qbHwmK8/GSConnect.png)](https://i.postimg.cc/6qbHwmK8/GSConnect.png" alt="GSConnect" width="400"/> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.postimg.cc/rw1SNPH5/Mise-jour.png)](https://postimg.cc/WDM9sN2j" alt="Mise à jour" width="500"/>
 
 
