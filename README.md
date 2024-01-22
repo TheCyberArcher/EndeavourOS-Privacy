@@ -202,7 +202,7 @@ If you need passtrough GPU or optimal performance, better kernel level and there
 
 Be careful if you want to pass devices (Microphone) into your VM in virtualbox, you must add your user to the vboxusers group and restart.
 
-```Usermod –aG «your username» vboxusers```
+```usermod –aG «your username» vboxusers```
 
 ---
 
