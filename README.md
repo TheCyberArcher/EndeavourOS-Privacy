@@ -54,15 +54,11 @@ Open a shell and paste this command :
 Open a shell and update all of the packages and kernel : ```yay -Syu``` \
 Reboot the computer.
 
-<br />
-
 ---
 
 <br />
 
 ### 4) Customise the Desktop Environment with extensions
-
-<br />
 
 Extensions are presents in https://extensions.gnome.org/List 
 
@@ -104,8 +100,6 @@ Open a shell and paste :
 
 After this, open extension manager in gnome, install the mentioned extensions
 and reboot the computer. Congratulation, your desktop environment is ready to be use !
-
-<br />
 
 ---
 
