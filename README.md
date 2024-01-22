@@ -176,11 +176,7 @@ The tools I list are not exhaustive.
 - [OnlyOffice](https://www.onlyoffice.com/fr/) : ```yay –S onlyoffice-bin```
 - [CodeOSS](https://flathub.org/apps/com.visualstudio.code-oss) : ```yay –S code```
 
-<br />
-
 ---
-
-<br />
 
 ### Virtualisation
 
