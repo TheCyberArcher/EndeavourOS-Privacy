@@ -184,6 +184,8 @@ With LibreWolf you already get strong protection against any footprint on the in
 - [Youtube Auto HD](https://addons.mozilla.org/fr/firefox/addon/youtube-auto-hd-fps/) (Sets a default resolution)
 - [Ublock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) (Already included, blocks ads)
 
+If you need additional protection, use the tor browser. In addition to accessing the unindexed web, you will have access to onion sites. Browser traffic will be routed through TOR in addition to already being encapsulated in your VPN connection.
+
 ---
 
 ### Virtualisation
