@@ -8,11 +8,7 @@
 
 [![Screen-principal.png](https://i.postimg.cc/g0MG9G5d/Screen-principal.png)](https://postimg.cc/zLRsKY8P)
 
-<br />
-
 ---
-
-<br />
 
 ### Basic Installation
 
