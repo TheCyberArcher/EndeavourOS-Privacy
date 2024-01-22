@@ -36,7 +36,7 @@
 ---
 
 
-### 2) Verify the connectivity
+### Verify the connectivity
 
 <br />
 
@@ -47,7 +47,7 @@ Open a shell and paste this command :
 ---
 
 
-### 3) Update
+### Update
 
 <br />
 
@@ -56,7 +56,7 @@ Reboot the computer.
 
 ---
 
-### 4) Customise the Desktop Environment with extensions
+### Customise the Desktop Environment with extensions
 
 Extensions are presents in https://extensions.gnome.org/List 
 
@@ -101,9 +101,7 @@ and reboot the computer. Congratulation, your desktop environment is ready to be
 
 ---
 
-<br />
-
-### 5) Install a VPN
+### Install a VPN
 
 <br />
 
@@ -134,13 +132,9 @@ In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambl
 
 [![Mullvad2.png](https://i.postimg.cc/C1MqFMmK/Mullvad2.png)](https://postimg.cc/B8y6p3WW)
 
-<br />
-
 ---
 
-<br />
-
-### 6) DNS configuration
+### DNS configuration
 
 <br />
 
@@ -162,13 +156,9 @@ At first, we set NextDNS, in secondary AdGuard and Cloudflare (if necessary) :
 >These DNS will integrate feeds of malicious sites, with large blocking lists and also prevent data collection.\
 Useful when you are not using the VPN, it will always be safer than using the one from Google or your ISP.
 
-<br />
-
 ---
 
-<br />
-
-### 7) Tools installation
+### Tools installation
 
 <br />
 
@@ -192,7 +182,7 @@ The tools I list are not exhaustive.
 
 <br />
 
-### 8) Virtualisation
+### Virtualisation
 
 <br />
 
@@ -208,13 +198,9 @@ Be careful if you want to pass devices (Microphone) into your VM in virtualbox, 
 
 ```Usermod –aG «your username» vboxusers```
 
-<br />
-
 ---
 
-<br />
-
-### 9) Control your GPU (Radeon Only)
+### Control your GPU (Radeon Only)
 
 <br />
 
@@ -265,13 +251,9 @@ Add this at the end of the line "options" : ```amdgpu.ppfeaturemask=0xffffffff``
 
 Reboot the computer to load the new kernel parameter.
 
-<br />
-
 ---
 
-<br />
-
-### 10) Gaming on Linux
+### Gaming on Linux
 
 <br />
 
@@ -319,11 +301,7 @@ lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader l
 
 Then follow the lutris documentation to install your games simply : [Lutris Game Page](https://lutris.net/games)
 
-<br />
-
 ---
-
-<br />
 
 ### GALLERY
 
