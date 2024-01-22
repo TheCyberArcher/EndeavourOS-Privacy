@@ -14,9 +14,7 @@
 
 <br />
 
-### 1) Basic Installation
-
-<br />
+### Basic Installation
 
 - Download EndeavourOS from the official website : [EndeavourOS Latest Release](https://endeavouros.com/#Download)
 
@@ -34,11 +32,9 @@
 - Select Systemd-boot for the bootloader choice
 - At the install of EndeavourOS, select Luks to take a full drive encryption with a master password
 
-<br />
 
 ---
 
-<br />
 
 ### 2) Verify the connectivity
 
@@ -48,11 +44,7 @@ Open a shell and paste this command :
 
 ```ping aur.archlinux.org```
 
-<br />
-
 ---
-
-<br />
 
 
 ### 3) Update
