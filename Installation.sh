@@ -2,28 +2,20 @@
 
 echo "-------------Bienvenue sur le script d'installation EndeavourOS-------------------"
 
-sleep 5
+sleep 2
 
 echo "--- Configuration du DNS en cours"
-
-sleep 5
 
 nmcli con mod "Connexion filaire 1" ipv4.ignore-auto-dns yes
 nmcli con mod "Connexion filaire 1" ipv4.dns "45.90.28.250 45.90.30.250 9.9.9.9 149.112.112.112 1.1.1.1"
 
 echo "--- Verification de la connectivité"
 
-sleep 5
-
 ping aur.archlinux.org -c 5
 
 echo "--- Connexion établie"
 
-sleep 5
-
 echo "--- Installation et configuration du pare-feu restrictif ---"
-
-sleep 5
 
 yay -S firewalld
 
@@ -36,8 +28,6 @@ sudo firewall-cmd --set-default-zone=block
 
 echo "---Installation du pare-feu terminée"
 
-sleep 3
-
 echo "--- Installation de la connexion VPN ---"
 
 yay -S mullvad-vpn-bin
@@ -48,43 +38,27 @@ mullvad dns set default --block-ads --block-trackers --block-malware --block-gam
 
 echo "--- VPN installé"
 
-sleep 5
-
 echo "--- Démarrage de l'installation des logiciels"
-
-sleep 5
 
 yay -S librewolf-bin tor-browser-bin thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl  
 
 echo "--- Liste de logiciels installée"
 
-sleep 5
-
 echo "--- Installation des fonctionnalités Flatpak"
-
-sleep 5
 
 yay -S flatpak
 
 echo "--- Installation du logiciel de wallpaper animé"
 
-sleep 5
-
 flatpak install flathub io.github.jeffshee.Hidamari
 
 echo "--- Mise à jour des pilotes graphiques Radeon ---"
-
-sleep 5
 
 yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
 
 echo "--- Pilote Radeon à jour"
 
-sleep 5
-
 echo "--- Configuration de Corectrl"
-
-sleep 5
 
 sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
@@ -101,27 +75,17 @@ echo " polkit.addRule(function(action, subject) {
 
 echo "--- Configuration terminée"
 
-sleep 3
-
 echo "--- Installation du logiciel de Virtualisation"
 
 yay -S virtualbox
-
-sleep 3
 
 echo "--- Configuration du logiciel de Virtualisation"
 
 sudo usermod -a -G vboxusers $USER
 
-sleep 3
-
 echo "--- Configuration terminée"
 
-sleep 5
-
 echo "--- Installation des fonctionnalités Gaming"
-
-sleep 6
 
 yay –S steam lutris proton-ge-custom 
 
