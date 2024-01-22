@@ -6,7 +6,7 @@
 
 <br />
 
-You can install manually or via the bash script available in [this repository](https://github.com/TheCyberArcher/EndeavourOS-Privacy/blob/main/Installation.sh).
+You can install manually or with the bash script available in [this repository](https://github.com/TheCyberArcher/EndeavourOS-Privacy/blob/main/Installation.sh).
 
 <br />
 
