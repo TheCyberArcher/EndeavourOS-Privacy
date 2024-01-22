@@ -174,6 +174,18 @@ The tools I list are not exhaustive.
 
 ---
 
+### Browser configuration
+
+You can go to this site for more information about the LibreWolf secure browser : https://librewolf.net/docs/faq/
+
+With LibreWolf you already get strong protection against any footprint on the internet. But to solidify the configuration and improve the experience, we will add some extensions:
+
+- [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) (Blocking against trackers)
+- [Youtube Auto HD](https://addons.mozilla.org/fr/firefox/addon/youtube-auto-hd-fps/) (Sets a default resolution)
+- [Ublock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) (Already included, blocks ads)
+
+---
+
 ### Virtualisation
 
 <br />
