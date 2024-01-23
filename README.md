@@ -284,8 +284,6 @@ You can now control the screen brightness with the gnome extension that we insta
 
 ---
 
-<br />
-
 ### Alternative Kernel
 
 "Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems"
