@@ -4,18 +4,10 @@ echo "-------------Bienvenue sur le script d'installation EndeavourOS-----------
 
 sleep 2
 
-echo "--- Configuration du DNS en cours"
-
 nmcli con mod "Connexion filaire 1" ipv4.ignore-auto-dns yes
 nmcli con mod "Connexion filaire 1" ipv4.dns "45.90.28.250 45.90.30.250 9.9.9.9 149.112.112.112 1.1.1.1"
 
-echo "--- Verification de la connectivité"
-
 ping aur.archlinux.org -c 5
-
-echo "--- Connexion établie"
-
-echo "--- Installation et configuration du pare-feu restrictif ---"
 
 yay -S firewalld
 
@@ -25,10 +17,6 @@ systemctl start firewalld
 firewall-cmd --state
 
 firewall-cmd --set-default-zone=block
-
-echo "---Installation du pare-feu terminée"
-
-echo "--- Installation de la connexion VPN ---"
 
 yay -S mullvad-vpn-bin
 
