@@ -38,6 +38,36 @@ mullvad dns set default --block-ads --block-trackers --block-malware --block-gam
 
 echo "--- VPN installé"
 
+echo "--- Installation des extensions gnome"
+
+yay -S git
+
+cd ~/.local/share/gnome-shell/extensions/
+
+git clone https://github.com/aunetx/blur-my-shell.git
+git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git
+git clone https://github.com/d-go/quick-settings-avatar.git
+git clone https://github.com/corecoding/Vitals.git
+git clone https://github.com/RaphaelRochet/arch-update.git
+git clone https://github.com/daitj/gnome-display-brightness-ddcutil.git
+git clone https://github.com/fthx/no-overview.git
+git clone https://github.com/qwreey/quick-settings-tweaks.git
+git clone https://github.com/micheleg/dash-to-dock.git
+git clone https://github.com/pop-os/shell.git
+git clone https://github.com/GSConnect/gnome-shell-extension-gsconnect.git
+
+mv blur-my-shell blur-my-shell@aunetx
+mv gnome-shell-extension-appindicator appindicatorsupport@rgcjonas.gmail.com
+mv quick-settings-avatar quick-settings-avatar@d-go
+mv Vitals Vitals@CoreCoding.com
+mv arch-update arch-update@RaphaelRochet
+mv gnome-display-brightness-ddcutil display-brightness-ddcutil@themightydeity.github.com
+mv no-overview no-overview@fthx
+mv quick-settings-tweaks quick-settings-tweaks@qwreey
+mv dash-to-dock dash-to-dock@micxgx.gmail.com
+mv shell pop-shell@system76.com
+mv gnome-shell-extension-gsconnect gnome-shell-extension-gsconnect
+
 echo "--- Démarrage de l'installation des logiciels"
 
 yay -S librewolf-bin tor-browser-bin thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl  
