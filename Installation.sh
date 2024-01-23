@@ -57,17 +57,17 @@ git clone https://github.com/micheleg/dash-to-dock.git
 git clone https://github.com/pop-os/shell.git
 git clone https://github.com/GSConnect/gnome-shell-extension-gsconnect.git
 
-mv blur-my-shell blur-my-shell@aunetx
-mv gnome-shell-extension-appindicator appindicatorsupport@rgcjonas.gmail.com
-mv quick-settings-avatar quick-settings-avatar@d-go
-mv Vitals Vitals@CoreCoding.com
-mv arch-update arch-update@RaphaelRochet
-mv gnome-display-brightness-ddcutil display-brightness-ddcutil@themightydeity.github.com
-mv no-overview no-overview@fthx
-mv quick-settings-tweaks quick-settings-tweaks@qwreey
-mv dash-to-dock dash-to-dock@micxgx.gmail.com
-mv shell pop-shell@system76.com
-mv gnome-shell-extension-gsconnect gsconnect@andyholmes.github.io
+mv "blur-my-shell" "blur-my-shell@aunetx"
+mv "gnome-shell-extension-appindicator" "appindicatorsupport@rgcjonas.gmail.com"
+mv "quick-settings-avatar" "quick-settings-avatar@d-go"
+mv "Vitals" "Vitals@CoreCoding.com"
+mv "arch-update" "arch-update@RaphaelRochet"
+mv "gnome-display-brightness-ddcutil" "display-brightness-ddcutil@themightydeity.github.com"
+mv "no-overview" "no-overview@fthx"
+mv "quick-settings-tweaks" "quick-settings-tweaks@qwreey"
+mv "dash-to-dock" "dash-to-dock@micxgx.gmail.com"
+mv "shell pop-shell@system76.com"
+mv "gnome-shell-extension-gsconnect" "gsconnect@andyholmes.github.io"
 
 echo "--- Démarrage de l'installation des logiciels"
 
