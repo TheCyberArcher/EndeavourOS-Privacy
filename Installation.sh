@@ -44,8 +44,8 @@ yay -S git
 
 mkdir ~/.local/share/gnome-shell/extensions/
 
-git clone https://github.com/aunetx/blur-my-shell.git ~/.local/share/gnome-shell/extensions/
-git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/aunetx/blur-my-shell.git ~/.local/share/gnome-shell/extensions/"blur-my-shell@aunetx"
+git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git ~/.local/share/gnome-shell/extensions/"appindicatorsupport@rgcjonas.gmail.com"
 git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome-shell/extensions/
 git clone https://github.com/corecoding/Vitals.git ~/.local/share/gnome-shell/extensions/
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/
