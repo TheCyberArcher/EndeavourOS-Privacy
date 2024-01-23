@@ -175,6 +175,7 @@ The tools I list are not exhaustive.
 - [Btop](https://github.com/aristocratos/btop) : ```yay –S btop```
 - [OnlyOffice](https://www.onlyoffice.com/fr/) : ```yay –S onlyoffice-bin```
 - [CodeOSS](https://flathub.org/apps/com.visualstudio.code-oss) : ```yay –S code```
+- [openrgb](https://openrgb.org/) : ```yay –S openrgb-bin```
 
 ---
 
