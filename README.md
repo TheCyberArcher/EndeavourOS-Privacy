@@ -264,6 +264,19 @@ Reboot the computer to load the new kernel parameter.
 
 ---
 
+### ddcutil configuration
+
+Edit the configuration file : 
+
+```sudo nano /etc/modules-load.d/i2c.conf```
+
+Paste this line : 
+
+```i2c_dev```
+
+Save the configuration and set type in a shell ```modprobe i2c_dev```
+
+
 ### Gaming on Linux
 
 <br />
