@@ -19,12 +19,12 @@ echo "--- Installation et configuration du pare-feu restrictif ---"
 
 yay -S firewalld
 
-sudo systemctl enable firewalld
-sudo systemctl start firewalld
+systemctl enable firewalld
+systemctl start firewalld
 
-sudo firewall-cmd --state
+firewall-cmd --state
 
-sudo firewall-cmd --set-default-zone=block
+firewall-cmd --set-default-zone=block
 
 echo "---Installation du pare-feu terminée"
 
