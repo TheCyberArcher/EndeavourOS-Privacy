@@ -42,6 +42,7 @@ echo "--- Installation des extensions gnome"
 
 yay -S git
 
+mkdir ~/.local/share/gnome-shell/extensions/
 cd ~/.local/share/gnome-shell/extensions/
 
 git clone https://github.com/aunetx/blur-my-shell.git
