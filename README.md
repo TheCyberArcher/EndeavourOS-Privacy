@@ -284,6 +284,26 @@ You can now control the screen brightness with the gnome extension that we insta
 
 ---
 
+<br />
+
+### Alternative Kernel
+
+"Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems"
+
+```yay -S linux-zen linux-zen-headers```
+
+```cd efi/loader/```
+
+Edit the loader configuration file :
+
+```sudo nano loader.conf```
+
+To display installed kernels : ```pacman -Q | grep linux```
+
+On the first line, set the "default" to the "linux-zen" kernel
+
+---
+
 ### Gaming on Linux
 
 <br />
