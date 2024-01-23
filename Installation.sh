@@ -58,27 +58,13 @@ git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/"arch-update@RaphaelRochet"
 git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/"no-overview@fthx"
 
-echo "--- Démarrage de l'installation des logiciels"
-
 yay -S librewolf-bin tor-browser-bin thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl  
-
-echo "--- Liste de logiciels installée"
-
-echo "--- Installation des fonctionnalités Flatpak"
 
 yay -S flatpak
 
-echo "--- Installation du logiciel de wallpaper animé"
-
 flatpak install flathub io.github.jeffshee.Hidamari
 
-echo "--- Mise à jour des pilotes graphiques Radeon ---"
-
 yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
-
-echo "--- Pilote Radeon à jour"
-
-echo "--- Configuration de Corectrl"
 
 sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
@@ -92,20 +78,9 @@ echo " polkit.addRule(function(action, subject) {
     }
 });" >> /etc/polkit-1/rules.d/90-corectrl.rules
 
-
-echo "--- Configuration terminée"
-
-echo "--- Installation du logiciel de Virtualisation"
-
 yay -S virtualbox
 
-echo "--- Configuration du logiciel de Virtualisation"
-
 sudo usermod -a -G vboxusers $USER
-
-echo "--- Configuration terminée"
-
-echo "--- Installation des fonctionnalités Gaming"
 
 yay –S steam lutris proton-ge-custom 
 
