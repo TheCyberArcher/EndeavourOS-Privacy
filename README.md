@@ -286,7 +286,7 @@ You can now control the screen brightness with the gnome extension that we insta
 
 ### Alternative Kernel
 
-"Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems"
+[linux-zen](https://github.com/zen-kernel/zen-kernel) : "Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems"
 
 ```yay -S linux-zen linux-zen-headers```
 
