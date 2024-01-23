@@ -266,6 +266,8 @@ Reboot the computer to load the new kernel parameter.
 
 ### ddcutil configuration
 
+<br />
+
 Edit the configuration file : 
 
 ```sudo nano /etc/modules-load.d/i2c.conf```
@@ -274,8 +276,13 @@ Paste this line :
 
 ```i2c_dev```
 
-Save the configuration and set type in a shell ```modprobe i2c_dev```
+Save the configuration and type in a shell ```modprobe i2c_dev```
 
+You can now control the screen brightness in GUI with the gnome extension that we installed.
+
+[![ddcutil.png](https://i.postimg.cc/gcC6MPt7/ddcutil.png)](https://postimg.cc/Yjx99THN)
+
+---
 
 ### Gaming on Linux
 
