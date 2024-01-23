@@ -44,17 +44,19 @@ yay -S git
 
 mkdir ~/.local/share/gnome-shell/extensions/
 
-git clone https://github.com/aunetx/blur-my-shell.git ~/.local/share/gnome-shell/extensions/"blur-my-shell@aunetx"
-git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git ~/.local/share/gnome-shell/extensions/"appindicatorsupport@rgcjonas.gmail.com"
+yay -S gnome-shell-extension-appindicator-git 
+yay -S gnome-shell-extension-vitals-git 
+yay -S gnome-shell-extension-display-brightness-ddcutil-git 
+yay -S gnome-shell-extension-quick-settings-tweaks-git 
+yay -S gnome-shell-extension-dash-to-dock 
+yay -S gnome-shell-extension-gsconnect 
+yay -S gnome-shell-extension-blur-my-shell 
+yay -S gnome-shell-extension-pop-shell-git 
+
+
 git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome-shell/extensions/"quick-settings-avatar@d-go"
-git clone https://github.com/corecoding/Vitals.git ~/.local/share/gnome-shell/extensions/"Vitals@CoreCoding.com"
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/"arch-update@RaphaelRochet"
-git clone https://github.com/daitj/gnome-display-brightness-ddcutil.git ~/.local/share/gnome-shell/extensions/"display-brightness-ddcutil@themightydeity.github.com"
 git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/"no-overview@fthx"
-git clone https://github.com/qwreey/quick-settings-tweaks.git ~/.local/share/gnome-shell/extensions/"quick-settings-tweaks@qwreey"
-git clone https://github.com/micheleg/dash-to-dock.git ~/.local/share/gnome-shell/extensions/"dash-to-dock@micxgx.gmail.com"
-git clone https://github.com/pop-os/shell.git ~/.local/share/gnome-shell/extensions/"pop-shell@system76.com"
-git clone https://github.com/GSConnect/gnome-shell-extension-gsconnect.git ~/.local/share/gnome-shell/extensions/"gsconnect@andyholmes.github.io"
 
 echo "--- Démarrage de l'installation des logiciels"
 
