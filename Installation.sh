@@ -43,19 +43,20 @@ echo "--- Installation des extensions gnome"
 yay -S git
 
 mkdir ~/.local/share/gnome-shell/extensions/
-cd ~/.local/share/gnome-shell/extensions/
 
-git clone https://github.com/aunetx/blur-my-shell.git
-git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git
-git clone https://github.com/d-go/quick-settings-avatar.git
-git clone https://github.com/corecoding/Vitals.git
-git clone https://github.com/RaphaelRochet/arch-update.git
-git clone https://github.com/daitj/gnome-display-brightness-ddcutil.git
-git clone https://github.com/fthx/no-overview.git
-git clone https://github.com/qwreey/quick-settings-tweaks.git
-git clone https://github.com/micheleg/dash-to-dock.git
-git clone https://github.com/pop-os/shell.git
-git clone https://github.com/GSConnect/gnome-shell-extension-gsconnect.git
+git clone https://github.com/aunetx/blur-my-shell.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/ubuntu/gnome-shell-extension-appindicator.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/corecoding/Vitals.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/daitj/gnome-display-brightness-ddcutil.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/qwreey/quick-settings-tweaks.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/micheleg/dash-to-dock.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/pop-os/shell.git ~/.local/share/gnome-shell/extensions/
+git clone https://github.com/GSConnect/gnome-shell-extension-gsconnect.git ~/.local/share/gnome-shell/extensions/
+
+cd ~/.local/share/gnome-shell/extensions/
 
 mv "blur-my-shell" "blur-my-shell@aunetx"
 mv "gnome-shell-extension-appindicator" "appindicatorsupport@rgcjonas.gmail.com"
