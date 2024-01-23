@@ -278,7 +278,7 @@ Paste this line :
 
 Save the configuration and type in a shell ```modprobe i2c_dev```
 
-You can now control the screen brightness in GUI with the gnome extension that we installed.
+You can now control the screen brightness with the gnome extension that we installed.
 
 [![ddcutil.png](https://i.postimg.cc/gcC6MPt7/ddcutil.png)](https://postimg.cc/Yjx99THN)
 
