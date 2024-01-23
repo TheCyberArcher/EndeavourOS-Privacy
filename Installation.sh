@@ -78,6 +78,9 @@ echo " polkit.addRule(function(action, subject) {
     }
 });" >> /etc/polkit-1/rules.d/90-corectrl.rules
 
+touch /etc/modules-load.d/i2c.conf
+echo i2c_dev >> /etc/modules-load.d/i2c.conf
+
 yay -S virtualbox
 
 sudo usermod -a -G vboxusers $USER
