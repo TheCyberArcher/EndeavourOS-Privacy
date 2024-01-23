@@ -67,7 +67,7 @@ mv "gnome-display-brightness-ddcutil" "display-brightness-ddcutil@themightydeity
 mv "no-overview" "no-overview@fthx"
 mv "quick-settings-tweaks" "quick-settings-tweaks@qwreey"
 mv "dash-to-dock" "dash-to-dock@micxgx.gmail.com"
-mv "shell pop-shell@system76.com"
+mv "shell" "pop-shell@system76.com"
 mv "gnome-shell-extension-gsconnect" "gsconnect@andyholmes.github.io"
 
 echo "--- Démarrage de l'installation des logiciels"
