@@ -42,7 +42,7 @@ git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/"arch-update@RaphaelRochet"
 git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/"no-overview@fthx"
 
-yay -S librewolf-bin tor-browser-bin thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl  
+yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop
 
 yay -S flatpak
 
