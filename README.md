@@ -385,8 +385,6 @@ You can now use an animated wallpaper, you will find live wallpapers to download
 
 >Please note, this software only works under X11 and has bugs with Wayland session
 
-<br />
-
 ---
 
 ### GALLERY
