@@ -1,6 +1,10 @@
 #!/bin/sh
 
-echo "-------------Bienvenue sur le script d'installation EndeavourOS-------------------"
+echo "------------- Bienvenue sur le script d'installation EndeavourOS-Privacy -------------------"
+
+sleep 2
+
+echo "Source : https://github.com/TheCyberArcher/EndeavourOS-Privacy/"
 
 sleep 2
 
