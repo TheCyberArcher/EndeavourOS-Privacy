@@ -182,7 +182,7 @@ These are the ones I use on a daily basis, but I will try to bring you the most 
 The tools I list are not exhaustive.
 
 - [LibreWolf](https://librewolf.net/) : ```yay –S librewolf-bin``` 
-- [TorBrowser](https://www.torproject.org/fr/download/) : ```yay –S tor-browser-bin```
+- [TorBrowser](https://www.torproject.org/fr/download/) : ```yay –S torbrowser-launcher```
 - [Thunderbird](https://www.thunderbird.net/fr/) : ```yay –S thunderbird```
 - [KeepassXC](https://keepassxc.org/) : ```yay –S keepassxc```
 - [WebAppManager](https://github.com/linuxmint/webapp-manager) : ```yay –S webapp-manager```
