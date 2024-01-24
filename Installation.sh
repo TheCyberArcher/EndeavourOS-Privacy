@@ -46,6 +46,19 @@ git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/"arch-update@RaphaelRochet"
 git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/"no-overview@fthx"
 
+gnome-shell-extension-tool -e quick-settings-avatar@d-go
+gnome-shell-extension-tool -e arch-update@RaphaelRochet
+gnome-shell-extension-tool -e no-overview@fthx
+gnome-shell-extension-tool -e appindicatorsupport@rgcjonas.gmail.com 
+gnome-shell-extension-tool -e quick-settings-tweaks@qwreey
+gnome-shell-extension-tool -e display-brightness-ddcutil@themightydeity.github.com
+gnome-shell-extension-tool -e Vitals@CoreCoding.com
+gnome-shell-extension-tool -e gsconnect@andyholmes.github.io
+gnome-shell-extension-tool -e dash-to-dock@micxgx.gmail.com
+gnome-shell-extension-tool -e pop-shell@system76.com
+
+
+
 yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop
 
 yay -S flatpak
