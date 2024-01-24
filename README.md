@@ -369,6 +369,24 @@ Then follow the lutris documentation to install your games simply : [Lutris Gam
 
 ---
 
+### Bonus : Animated Wallpaper
+
+>Flatpaks are, under Linux, a universal package system. The goal is to facilitate the secure deployment of applications and avoid having to go through third-party builds.
+
+Install Flatpak : ```yay -S flatpak```
+
+Install Hidamari from flathub : ```flatpak install flathub io.github.jeffshee.Hidamari```
+
+Run Hidamari : ```flatpak run io.github.jeffshee.Hidamari```
+
+You can now use an animated wallpaper, you will find live wallpapers to download on the internet.
+
+>Please note, this software only works under X11 and has bugs with Wayland
+
+<br />
+
+---
+
 ### GALLERY
 
 <br />
