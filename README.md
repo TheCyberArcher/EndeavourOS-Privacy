@@ -191,6 +191,7 @@ The tools I list are not exhaustive.
 - [OnlyOffice](https://www.onlyoffice.com/fr/) : ```yay –S onlyoffice-bin```
 - [CodeOSS](https://flathub.org/apps/com.visualstudio.code-oss) : ```yay –S code```
 - [OpenRGB](https://openrgb.org/) : ```yay –S openrgb-bin```
+- [VLC](https://www.videolan.org/vlc/index.fr.html) : ```yay -S vlc```
 
 ---
 
