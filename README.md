@@ -169,7 +169,7 @@ and start firewalld : ```systemctl start firewalld```
 
 Verify the run : ```firewall-cmd --state```
 
-Set the default zone : ```firewall-cmd --set-default-zone=block```
+Set the default zone : ```firewall-cmd --set-default-zone=work```
 
 --- 
 
