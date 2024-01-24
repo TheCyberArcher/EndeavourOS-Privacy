@@ -136,7 +136,7 @@ In VPN settings, choose DNS content blocker. Select Ads, Tracker, Malware, Gambl
 
 ### DNS configuration
 
-<br />
+c
 
 Open Gnome Settings and go to the network page.\
 On your network media, open settings and go to IPV4.
@@ -157,6 +157,21 @@ At first, we set NextDNS, in secondary AdGuard and Cloudflare (if necessary) :
 Useful when you are not using the VPN, it will always be safer than using the one from Google or your ISP.
 
 ---
+
+### Firewall configuration
+
+<br />
+
+Install firewalld : ```yay -S firewalld```
+
+Enable the service : ```systemctl enable firewalld```
+Start the service : ```systemctl start firewalld```
+
+Verify the run : ```firewall-cmd --state```
+
+Set the default zone : ```firewall-cmd --set-default-zone=block```
+
+--- 
 
 ### Tools installation
 
@@ -285,6 +300,8 @@ You can now control the screen brightness with the gnome extension that we insta
 ---
 
 ### Alternative Kernel
+
+<br />
 
 [linux-zen](https://github.com/zen-kernel/zen-kernel) : "Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems"
 
