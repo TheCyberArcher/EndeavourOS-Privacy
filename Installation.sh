@@ -16,7 +16,7 @@ systemctl start firewalld
 
 firewall-cmd --state
 
-firewall-cmd --set-default-zone=block
+firewall-cmd --set-default-zone=work
 
 yay -S mullvad-vpn-bin
 
