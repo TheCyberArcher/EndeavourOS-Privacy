@@ -24,10 +24,6 @@ mullvad auto-connect set on
 mullvad lan set allow
 mullvad dns set default --block-ads --block-trackers --block-malware --block-gambling --block-adult-content
 
-echo "--- VPN installé"
-
-echo "--- Installation des extensions gnome"
-
 yay -S git
 
 mkdir ~/.local/share/gnome-shell/extensions/
