@@ -192,6 +192,8 @@ The tools I list are not exhaustive.
 - [CodeOSS](https://flathub.org/apps/com.visualstudio.code-oss) : ```yay –S code```
 - [OpenRGB](https://openrgb.org/) : ```yay –S openrgb-bin```
 - [VLC](https://www.videolan.org/vlc/index.fr.html) : ```yay -S vlc```
+- [Discord](https://discord.com/) : ```yay -S discord```
+- [Signal](https://signal.org/fr/) : ```yay -S signal-desktop```
 
 ---
 
