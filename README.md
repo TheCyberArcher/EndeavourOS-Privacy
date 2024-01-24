@@ -165,7 +165,7 @@ Useful when you are not using the VPN, it will always be safer than using the on
 Install firewalld : ```yay -S firewalld```
 
 Enable the service : ```systemctl enable firewalld```
-Start the service : ```systemctl start firewalld```
+and start firewalld : ```systemctl start firewalld```
 
 Verify the run : ```firewall-cmd --state```
 
