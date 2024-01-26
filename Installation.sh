@@ -58,7 +58,9 @@ yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
 
 sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
-echo " polkit.addRule(function(action, subject) {
+cat > /etc/polkit-1/rules.d/90-corectrl.rules << EOF 
+
+" polkit.addRule(function(action, subject) {
     if ((action.id == "org.corectrl.helper.init" ||
          action.id == "org.corectrl.helperkiller.init") &&
         subject.local == true &&
@@ -66,7 +68,9 @@ echo " polkit.addRule(function(action, subject) {
         subject.isInGroup("your-user-group")) {
             return polkit.Result.YES;
     }
-});" >> /etc/polkit-1/rules.d/90-corectrl.rules
+});"
+
+EOF
 
 touch /etc/modules-load.d/i2c.conf
 echo i2c_dev >> /etc/modules-load.d/i2c.conf
