@@ -316,9 +316,11 @@ Edit the loader configuration file :
 
 ```sudo nano loader.conf```
 
-To display installed kernels : ```pacman -Q | grep linux```
+To display installed kernels : ```ls /efi/loader/entries```
 
-On the first line, set the "default" to the "linux-zen" kernel
+On the first line, set the "default" to the "linux-zen" kernel : add ```-zen.conf``` after the ```*```
+
+```bootctl set-default @current```
 
 ---
 
