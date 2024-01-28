@@ -27,7 +27,7 @@ yay -S mullvad-vpn-bin
 mullvad lan set allow
 mullvad dns set default --block-ads --block-trackers --block-malware --block-gambling --block-adult-content
 
-yay -S gnome-shell gnome-control-center gnome-tweak-tool gnome-terminal xdg-user-dirs networkmanager nautilus gnome-keyring xdg-desktop-portal xdg-desktop-portal-gnome gdm
+yay -S gnome-shell gnome-control-center gnome-tweaks gnome-terminal xdg-user-dirs networkmanager nautilus gnome-keyring xdg-desktop-portal xdg-desktop-portal-gnome gdm
 
 sudo systemctl enable gdm.service
 
