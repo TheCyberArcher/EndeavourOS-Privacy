@@ -28,6 +28,10 @@ mullvad auto-connect set on
 mullvad lan set allow
 mullvad dns set default --block-ads --block-trackers --block-malware --block-gambling --block-adult-content
 
+yay -S gnome-shell gnome-control-center gnome-tweak-tool gnome-terminal xdg-user-dirs networkmanager nautilus gnome-keyring xdg-desktop-portal xdg-desktop-portal-gnome gdm
+
+enable gdm.service
+
 yay -S git
 
 mkdir ~/.local/share/gnome-shell/extensions/
