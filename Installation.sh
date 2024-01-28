@@ -80,7 +80,9 @@ sudo cat << EOF > /etc/polkit-1/rules.d/90-corectrl.rules
         subject.isInGroup("your-user-group")) {
             return polkit.Result.YES;
     }
-});" EOF
+});"  
+
+EOF
 
 
 sudo touch /etc/modules-load.d/i2c.conf
