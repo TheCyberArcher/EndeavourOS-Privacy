@@ -8,12 +8,18 @@ echo "Source : https://github.com/TheCyberArcher/EndeavourOS-Privacy/"
 
 sleep 2
 
+#DNS configuration
+
 nmcli con mod "Connexion filaire 1" ipv4.ignore-auto-dns yes
 nmcli con mod "Connexion filaire 1" ipv4.dns "45.90.28.250 45.90.30.250 9.9.9.9 149.112.112.112 1.1.1.1"
 
 ping aur.archlinux.org -c 5
 
+#Base tool install
+
 pacman -S yay git nano
+
+#Firewall configuration
 
 yay -S firewalld
 
@@ -24,10 +30,14 @@ firewall-cmd --state
 
 firewall-cmd --set-default-zone=work
 
+#VPN configuration
+
 yay -S mullvad-vpn-bin
 
 mullvad lan set allow
 mullvad dns set default --block-ads --block-trackers --block-malware --block-gambling --block-adult-content
+
+#Desktop environment installation
 
 yay -S gnome-shell gnome-control-center gnome-tweaks gnome-terminal xdg-user-dirs networkmanager nautilus gnome-keyring xdg-desktop-portal xdg-desktop-portal-gnome gdm
 
@@ -50,10 +60,9 @@ git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/ext
 sudo systemctl enable gdm.service
 gsettings set org.gnome.shell disable-user-extensions false
 
+#Tools installation
 
-yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom 
-
-yay -S flatpak
+yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom virtualbox
 
 sudo pacman -S --needed wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls \
 mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error \
@@ -62,9 +71,14 @@ sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcryp
 ncurses lib32-ncurses ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gtk3 \
 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader
 
+yay -S flatpak
+flatpak install flathub io.github.jeffshee.Hidamari
+
+#Drivers installation
+
 yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
 
-flatpak install flathub io.github.jeffshee.Hidamari
+#Corectl file configuration
 
 sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
@@ -82,13 +96,16 @@ sudo cat << EOF > /etc/polkit-1/rules.d/90-corectrl.rules
 
 EOF
 
+#ddcutil file configuration
 
 sudo touch /etc/modules-load.d/i2c.conf
 sudo echo i2c_dev >> /etc/modules-load.d/i2c.conf
 
-yay -S virtualbox
+#virtualbox user configuration
 
 sudo usermod -a -G vboxusers $USER
+
+#END
 
 echo "--- Installation terminée"
 echo "--- Reboot dans 10 secondes"
