@@ -24,7 +24,6 @@ firewall-cmd --set-default-zone=work
 
 yay -S mullvad-vpn-bin
 
-mullvad auto-connect set on
 mullvad lan set allow
 mullvad dns set default --block-ads --block-trackers --block-malware --block-gambling --block-adult-content
 
