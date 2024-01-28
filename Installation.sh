@@ -13,6 +13,8 @@ nmcli con mod "Connexion filaire 1" ipv4.dns "45.90.28.250 45.90.30.250 9.9.9.9 
 
 ping aur.archlinux.org -c 5
 
+pacman -S yay git nano
+
 yay -S firewalld
 
 systemctl enable firewalld
