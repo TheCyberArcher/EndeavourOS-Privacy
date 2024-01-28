@@ -51,7 +51,7 @@ git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/ext
 
 gsettings set org.gnome.shell disable-user-extensions false
 
-yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin code virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop
+yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop
 
 yay -S flatpak
 
