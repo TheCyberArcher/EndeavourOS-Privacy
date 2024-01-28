@@ -75,8 +75,8 @@ cat > /etc/polkit-1/rules.d/90-corectrl.rules << EOF
 
 EOF
 
-touch /etc/modules-load.d/i2c.conf
-echo i2c_dev >> /etc/modules-load.d/i2c.conf
+sudo touch /etc/modules-load.d/i2c.conf
+sudo echo i2c_dev >> /etc/modules-load.d/i2c.conf
 
 yay -S virtualbox
 
