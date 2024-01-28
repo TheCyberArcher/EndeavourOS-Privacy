@@ -30,7 +30,7 @@ mullvad dns set default --block-ads --block-trackers --block-malware --block-gam
 
 yay -S gnome-shell gnome-control-center gnome-tweak-tool gnome-terminal xdg-user-dirs networkmanager nautilus gnome-keyring xdg-desktop-portal xdg-desktop-portal-gnome gdm
 
-enable gdm.service
+sudo systemctl enable gdm.service
 
 yay -S git
 
