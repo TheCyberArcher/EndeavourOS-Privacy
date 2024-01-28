@@ -31,10 +31,6 @@ mullvad dns set default --block-ads --block-trackers --block-malware --block-gam
 
 yay -S gnome-shell gnome-control-center gnome-tweaks gnome-terminal xdg-user-dirs networkmanager nautilus gnome-keyring xdg-desktop-portal xdg-desktop-portal-gnome gdm
 
-sudo systemctl enable gdm.service
-
-yay -S git
-
 mkdir ~/.local/share/gnome-shell/extensions/
 
 yay -S gnome-shell-extension-appindicator-git 
@@ -51,7 +47,9 @@ git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/"arch-update@RaphaelRochet"
 git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/"no-overview@fthx"
 
+sudo systemctl enable gdm.service
 gsettings set org.gnome.shell disable-user-extensions false
+
 
 yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom 
 
