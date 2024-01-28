@@ -78,7 +78,7 @@ flatpak install flathub io.github.jeffshee.Hidamari
 
 yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
 
-#Corectl file configuration
+#Corectrl file configuration
 
 sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
