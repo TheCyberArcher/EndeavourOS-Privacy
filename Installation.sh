@@ -17,7 +17,12 @@ ping aur.archlinux.org -c 5
 
 #Base tool install
 
-pacman -S yay git nano
+sudo pacman -S --needed base-devel git
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+
+yay -S nano
 
 #Firewall configuration
 
