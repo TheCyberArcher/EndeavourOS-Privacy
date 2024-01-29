@@ -58,7 +58,7 @@ gsettings set org.gnome.shell disable-user-extensions false
 
 #Tools installation
 
-yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom neofetch virtualbox
+yay -S librewolf-bin torbrowser-launcher thunderbird keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom-bin neofetch virtualbox
 
 sudo pacman -S --needed wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls \
 mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error \
@@ -80,7 +80,7 @@ sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
 sudo cat << EOF > /etc/polkit-1/rules.d/90-corectrl.rules
 
-" polkit.addRule(function(action, subject) {
+polkit.addRule(function(action, subject) {
     if ((action.id == "org.corectrl.helper.init" ||
          action.id == "org.corectrl.helperkiller.init") &&
         subject.local == true &&
@@ -88,7 +88,7 @@ sudo cat << EOF > /etc/polkit-1/rules.d/90-corectrl.rules
         subject.isInGroup("your-user-group")) {
             return polkit.Result.YES;
     }
-});"  
+});  
 
 EOF
 
