@@ -25,7 +25,7 @@ You can install manually or with the bash script available in [this repository](
 - Create an USB Bootable Drive with [USBdiskimager](https://aur.archlinux.org/packages/usbimager)
 - At the install select "no desktop environment"
 
->Remove endeavourOS tools and gnome additionnals tools to obtain a clean and minimal install
+>Remove endeavourOS tools to obtain a clean and minimal install
 
 <br />
 
