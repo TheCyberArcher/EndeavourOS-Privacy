@@ -78,7 +78,7 @@ yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
 
 sudo touch /etc/polkit-1/rules.d/90-corectrl.rules
 
-sudo cat << EOF > /etc/polkit-1/rules.d/90-corectrl.rules
+sudo su - -c "cat << EOF > /etc/polkit-1/rules.d/90-corectrl.rules
 
 polkit.addRule(function(action, subject) {
     if ((action.id == "org.corectrl.helper.init" ||
@@ -88,9 +88,9 @@ polkit.addRule(function(action, subject) {
         subject.isInGroup("your-user-group")) {
             return polkit.Result.YES;
     }
-});  
+});
 
-EOF
+EOF"
 
 #ddcutil file configuration
 
