@@ -74,7 +74,7 @@ flatpak install flathub io.github.jeffshee.Hidamari
 
 #Drivers installation
 
-yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon
+yay –S mesa lib32-mesa vulkan-radeon lib32-vulkan-radeon vulkan-tools
 
 #Corectrl file configuration
 
