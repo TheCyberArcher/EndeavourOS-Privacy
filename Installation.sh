@@ -46,12 +46,13 @@ yay -S gnome-shell-extension-quick-settings-tweaks-git
 yay -S gnome-shell-extension-dash-to-dock 
 yay -S gnome-shell-extension-gsconnect 
 yay -S gnome-shell-extension-blur-my-shell 
-yay -S gnome-shell-extension-pop-shell-git 
+yay -S gnome-shell-extension-forge
 
 
 git clone https://github.com/d-go/quick-settings-avatar.git ~/.local/share/gnome-shell/extensions/"quick-settings-avatar@d-go"
 git clone https://github.com/RaphaelRochet/arch-update.git ~/.local/share/gnome-shell/extensions/"arch-update@RaphaelRochet"
 git clone https://github.com/fthx/no-overview.git ~/.local/share/gnome-shell/extensions/"no-overview@fthx"
+git clone https://github.com/christopher-l/space-bar.git ~/.local/share/gnome-shell/extensions/"space-bar@luchrioh"
 
 sudo systemctl enable gdm.service
 gsettings set org.gnome.shell disable-user-extensions false
