@@ -64,7 +64,7 @@ yay -S pacman-contrib
 
 #Tools installation
 
-yay -S librewolf-bin torbrowser-launcher thunderbird protonmail-bridge-bin solaar keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox virtualbox-host-modules-arch openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom-bin neofetch virtualbox
+yay -S librewolf-bin torbrowser-launcher thunderbird protonmail-bridge-bin solaar keepassxc webapp-manager extension-manager qbittorrent btop onlyoffice-bin visual-studio-code-bin virtualbox virtualbox-host-modules-arch openrgb-bin corectrl ddcutil vlc corectrl discord signal-desktop steam lutris proton-ge-custom-bin neofetch 
 
 #Wine-lutris dependencies
 
